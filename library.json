@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-avoid",
-  "title": "avoid",
+  "title": "KY-032 Obstacle avoidance sensor module",
   "keywords": "avoid, esp32, esp8266, arduino",
   "description": "avoid plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-avoid/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-avoid/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }

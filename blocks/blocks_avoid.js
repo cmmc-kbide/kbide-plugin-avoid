@@ -1,5 +1,4 @@
-module.exports = function(Blockly) {
-  Blockly.Blocks["ky_032_avoid_block"] = {
+Blockly.Blocks["ky_032_avoid_block"] = {
     init: function() {
       this.appendDummyInput().appendField("KY-032 AVOID");
       this.appendDummyInput()
@@ -24,4 +23,3 @@ module.exports = function(Blockly) {
       this.setHelpUrl("");
     }
   };
-};
